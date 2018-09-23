@@ -13,7 +13,8 @@ Repetition
 ## Øvelser
 Lav nogle af de udeståene opgaver.
 
-![Klassediagram for skoleopgave](skole.png)
+![Klassediagram for skoleopgave](/Skole.png)
+
 Omsæt Skole-klassediagrammet til kode:
 * Lav en Studerende klasse og en Skole klasse.
 * Instantier mindst 3 objekter af type Studerende med forskellig højde og vægt.
