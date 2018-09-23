@@ -20,3 +20,4 @@ Omsæt Skole-klassediagrammet til kode:
 * Instantier mindst 3 objekter af type Studerende med forskellig højde og vægt.
 * Udregn BMI for de studerende. BMI-metoden skal ud over BMI fortælle om den studerende er under- (-18.5), normal- (18,5-25), over-vægtig (25-30) eller fed (30-).
 * Udskriv de tallene fra 2 til 100 og om de er primtal. erPrimal-metoden kan bruge en boolsk variabel til at holde styr på om det er et primtal. Primtal er tal, hvor kun 1 og tallet selv går op i tallet. Brug modulus (%) til at finde ud af, om det er et primtal.
+* ekstra (for løkke i for løkke): lave en metode på Studerende, der udskriver den lille tabel. Brug metoden på en instans af Studerende i Skole
